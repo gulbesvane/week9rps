@@ -1,0 +1,16 @@
+body{
+	background-color: #565b62;
+	color: #feb554;
+	text-align: center;
+}
+
+.row{
+	margin-top: 55px;
+	margin-bottom: 55px;
+	justify-content: space-between;
+}
+
+.col{
+	justify-content: space-between;
+}
+
